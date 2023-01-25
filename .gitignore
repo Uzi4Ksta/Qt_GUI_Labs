@@ -1,0 +1,3 @@
+# VS ignore
+*/.vs
+**/Debug
